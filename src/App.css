@@ -1,0 +1,47 @@
+
+.results{
+  text-align: center;
+  background-color: white;
+  color:blue;
+  min-height: 100vh;
+  font-size: xx-large;
+  cursor: pointer;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 100px;
+  padding-left: 20%;
+  padding-right: 20%;
+  cursor: pointer;
+}
+
+
+.input{
+  text-align: center;
+}
+
+.addition{
+  border-radius: 5px;
+  background-color: rgb(255, 189, 47);
+}
+.subtraction{
+  border-radius: 5px;
+  background-color: rgb(255, 189, 47);;
+}
+.multiply{
+  border-radius: 5px;
+  background-color: rgb(255, 189, 47);;
+}
+.divide{
+  border-radius: 5px;
+  background-color: rgb(255, 189, 47);;
+}
+.delete{
+  border-radius: 220px;
+  background-color: rgb(240, 13, 13);
+  color: black;
+  font-size: large;
+}
