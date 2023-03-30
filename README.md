@@ -1,3 +1,15 @@
+                       React Assignment
+
+Create a basic calculator.
+
+Create 2 input fields 
+and four buttons named addition, subtraction, multiplication and division
+add a H1 tag and show the results when you click on the specific button. 
+
+Add Delete button to delete all values.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
